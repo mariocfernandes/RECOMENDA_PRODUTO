@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run rfv_cjshops.py
+web: sh setup.sh && streamlit run recomenda.py
