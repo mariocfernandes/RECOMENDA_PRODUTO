@@ -1,4 +1,6 @@
 streamlit==0.83.0
-pandas==1.2.4
+pandas==1.1.4
 numpy==1.20.1
-
+openpyxl==3.0.7
+spacy==1.6.2
+scikit-learn==0.24.2
