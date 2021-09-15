@@ -1,6 +1,6 @@
 streamlit==0.83.0
 pandas==1.2.4
-numpy==1.20ppip .2
+numpy==1.20.2
 openpyxl==3.0.7
 scipy==1.6.2
 scikit-learn==0.24.2
